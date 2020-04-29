@@ -1,5 +1,5 @@
 /**
- * ver 0
+ * ver 1
  * 
  * <h1><u>Classe Trapezio</u></h1>
  * 
